@@ -9,3 +9,4 @@ Collections for insteresting Q&amp;A of StackOverflow
 - [What is the _snowman param in Ruby on Rails 3 forms for?](https://stackoverflow.com/questions/3222013/what-is-the-snowman-param-in-ruby-on-rails-3-forms-for/3348524#3348524) Same as the previous
 - [Issue pushing new code in Github
 ](https://stackoverflow.com/questions/20939648/issue-pushing-new-code-in-github)
+- [Can (a== 1 && a ==2 && a==3) ever evaluate to true?](https://stackoverflow.com/questions/48270127/can-a-1-a-2-a-3-ever-evaluate-to-true)
