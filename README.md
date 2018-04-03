@@ -10,3 +10,4 @@ Collections for insteresting Q&amp;A of StackOverflow
 - [Issue pushing new code in Github
 ](https://stackoverflow.com/questions/20939648/issue-pushing-new-code-in-github)
 - [Can (a== 1 && a ==2 && a==3) ever evaluate to true?](https://stackoverflow.com/questions/48270127/can-a-1-a-2-a-3-ever-evaluate-to-true)
+- [How to Deep clone in javascript](https://stackoverflow.com/questions/4459928/how-to-deep-clone-in-javascript)
